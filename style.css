@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background: blue;
+}
+h2{
+    color: rgb(240, 231, 60);
+    background: rgb(14, 89, 18);
+    
+}
+h3{
+    color: rgb(80, 34, 161, 0.5)
+}
+p{
+    color: #f08080;
+}
+h4{
+    color: #A80B08;
+    background: #f0957f;
+}
+h5{
+    color: #2f47e0;
+    background: #E0AA2F
+}
